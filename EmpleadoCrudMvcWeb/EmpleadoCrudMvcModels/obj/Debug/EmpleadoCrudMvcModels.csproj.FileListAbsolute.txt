@@ -1,0 +1,35 @@
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EmpleadoCrudMvcModels.dll.config
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EmpleadoCrudMvcModels.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EmpleadoCrudMvcModels.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EntityFramework.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EntityFramework.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\obj\Debug\EmpleadoCrudMvcModels.csprojResolveAssemblyReference.cache
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\obj\Debug\EmpleadoCrudMvcModels.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\obj\Debug\EmpleadoCrudMvcModels.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\obj\Debug\EmpleadoCrudMvcModels.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EmpleadoCrudMvcModels.dll.config
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EmpleadoCrudMvcModels.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EmpleadoCrudMvcModels.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EntityFramework.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EntityFramework.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\obj\Debug\EmpleadoCrudMvcModels.csprojAssemblyReference.cache
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\obj\Debug\EmpleadoCrudMvcModels.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\obj\Debug\EmpleadoCrudMvcModels.csproj.CopyComplete
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\obj\Debug\EmpleadoCrudMvcModels.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\obj\Debug\EmpleadoCrudMvcModels.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EmpleadoCrudMvcModels.dll.config
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EmpleadoCrudMvcModels.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EmpleadoCrudMvcModels.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EntityFramework.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EntityFramework.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\obj\Debug\EmpleadoCrudMvcModels.csprojAssemblyReference.cache
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\obj\Debug\EmpleadoCrudMvcModels.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\obj\Debug\EmpleadoCrudMvcModels.csproj.CopyComplete
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\obj\Debug\EmpleadoCrudMvcModels.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcModels\obj\Debug\EmpleadoCrudMvcModels.pdb

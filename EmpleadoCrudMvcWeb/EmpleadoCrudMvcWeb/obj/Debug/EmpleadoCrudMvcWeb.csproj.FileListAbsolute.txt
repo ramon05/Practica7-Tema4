@@ -1,0 +1,143 @@
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcWeb.dll.config
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcWeb.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcWeb.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Antlr3.Runtime.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EntityFramework.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Newtonsoft.Json.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Helpers.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Mvc.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Optimization.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Razor.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\WebGrease.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EntityFramework.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Helpers.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Mvc.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Optimization.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Razor.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Newtonsoft.Json.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\obj\Debug\EmpleadoCrudMvcWeb.csprojResolveAssemblyReference.cache
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\obj\Debug\EmpleadoCrudMvcWeb.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\obj\Debug\EmpleadoCrudMvcWeb.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\obj\Debug\EmpleadoCrudMvcWeb.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcModels.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcModels.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcModels.dll.config
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcWeb.dll.config
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcWeb.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcWeb.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Antlr3.Runtime.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcModels.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EntityFramework.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Newtonsoft.Json.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Helpers.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Mvc.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Optimization.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Razor.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\WebGrease.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcModels.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcModels.dll.config
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EntityFramework.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Helpers.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Mvc.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Optimization.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Razor.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Newtonsoft.Json.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\obj\Debug\EmpleadoCrudMvcWeb.csprojAssemblyReference.cache
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\obj\Debug\EmpleadoCrudMvcWeb.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\obj\Debug\EmpleadoCrudMvcWeb.csproj.CopyComplete
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\obj\Debug\EmpleadoCrudMvcWeb.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 2\Practica2-7\Ejercicios Propuestos\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\obj\Debug\EmpleadoCrudMvcWeb.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcWeb.dll.config
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcWeb.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcWeb.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Antlr3.Runtime.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcModels.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EntityFramework.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Newtonsoft.Json.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Helpers.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Mvc.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Optimization.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Razor.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\WebGrease.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcModels.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EmpleadoCrudMvcModels.dll.config
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EntityFramework.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Helpers.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Mvc.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Optimization.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.Razor.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Antlr3.Runtime.pdb
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Newtonsoft.Json.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\obj\Debug\EmpleadoCrudMvcWeb.csprojAssemblyReference.cache
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\obj\Debug\EmpleadoCrudMvcWeb.csproj.CoreCompileInputs.cache
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\obj\Debug\EmpleadoCrudMvcWeb.csproj.CopyComplete
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\obj\Debug\EmpleadoCrudMvcWeb.dll
+C:\Users\Ramon\Documents\Diplomado de la Mescyt C#\Unidad 4\Práctica 7\EmpleadoCrudMvcWeb\EmpleadoCrudMvcWeb\obj\Debug\EmpleadoCrudMvcWeb.pdb
